@@ -14,7 +14,7 @@ int main(){
    // to change the value of an array
     phyMarks[3] = 100;
     cout<<phyMarks[3]<<endl; 
-    
+    cout<<"hello world\n";
     while ( i < 4)
     {
         cout<<"the value of marks"<<i<<"using while loop "<<'  '<<phyMarks[i]<<endl;
