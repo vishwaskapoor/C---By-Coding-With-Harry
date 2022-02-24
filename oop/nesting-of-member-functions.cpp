@@ -74,9 +74,10 @@ void binary::display(void)
     {
         cout << s.at(i);
     }
+    //cout<<s;      // both are correct
     cout<<endl;
 }
-
+//Driver Code
 int main()
 {
     binary b;

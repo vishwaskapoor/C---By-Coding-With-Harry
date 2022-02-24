@@ -34,7 +34,7 @@ int main(){
     // harry.count = 1; // connot do this as id and count are private
 
     harry.setData();
-    harry.getData
+    harry.getData();
 
 
 return 0;
