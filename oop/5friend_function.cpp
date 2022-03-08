@@ -4,14 +4,14 @@ class Complex
 {
     int a,b;
     // Below line means that non member - sumcomplex function
-    // is allowed to do anything with my private members
+    // is allowed to do anything with my private members.
     friend Complex sumComplex(Complex o1, Complex o2);
     public:
         void setNumber(int n1, int n2)
         {
             a = n1;
             b = n2;
-           
+            
             
         }
         void printNumber()
