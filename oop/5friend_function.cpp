@@ -11,8 +11,6 @@ class Complex
         {
             a = n1;
             b = n2;
-            
-            
         }
         void printNumber()
         {
